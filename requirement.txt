@@ -1,4 +1,4 @@
 streamlit
-pygame
+pygame-ce
 numpy
 pillow
