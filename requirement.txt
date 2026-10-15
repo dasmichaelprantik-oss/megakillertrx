@@ -1,0 +1,4 @@
+streamlit
+pygame
+numpy
+pillow
